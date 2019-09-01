@@ -1,0 +1,85 @@
+[项目窗口数据(_D)]
+ProjectExplorer.ClassicPosition[String] = "158,252,860,1614"
+
+[AB_Cache_{41D381FE-BC66-4D51-ABC2-2AC0BB963F5A}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "18c455fd39bdae0a5859839c4b647b1c"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/F/mypro/work/products/9000/EM9636/software/"
+Cache_GenFile[0][Path] Line0002 = "demo/builds/EM9636_Demo/EM9636AD高速/EM9636A"
+Cache_GenFile[0][Path] Line0003 = "D高速.exe"
+Cache_GenFile[1][Path] Line0001 = "/F/mypro/work/products/9000/EM9636/software/"
+Cache_GenFile[1][Path] Line0002 = "demo/builds/EM9636_Demo/EM9636AD高速/EM9636A"
+Cache_GenFile[1][Path] Line0003 = "D高速.aliases"
+Cache_GenFile[2][Path] Line0001 = "/F/mypro/work/products/9000/EM9636/software/"
+Cache_GenFile[2][Path] Line0002 = "demo/builds/EM9636_Demo/EM9636AD高速/EM9636A"
+Cache_GenFile[2][Path] Line0003 = "D高速.ini"
+Cache_GenFile[3][Path] Line0001 = "/F/mypro/work/products/9000/EM9636/software/"
+Cache_GenFile[3][Path] Line0002 = "demo/builds/EM9636_Demo/EM9636AD高速/data/em"
+Cache_GenFile[3][Path] Line0003 = "9636.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{996ED70F-475A-4589-ABEE-08656041DF85}"
+Cache_GenGUID[1][String] = "{2E6EDC68-90CE-433E-BBF8-F4BDFF2DB639}"
+Cache_GenGUID[2][String] = "{0AB9614A-5F73-408D-AB12-F4603C4C1C9D}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] Line0001 = "/F/mypro/work/products/9000/EM9636/software/d"
+Cache_OutputDir[Path] Line0002 = "emo/builds/EM9636_Demo/EM9636AD高速"
+
+[AB_Cache_{5E77288A-9DBE-45E8-96C3-8F8ED1ADDEB9}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "18c455fd39bdae0a5859839c4b647b1c"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/F/mypro/work/products/9000/EM9636/software/"
+Cache_GenFile[0][Path] Line0002 = "demo/builds/EM9636_Demo/EM9636AD高速/EM9636A"
+Cache_GenFile[0][Path] Line0003 = "D高速.exe"
+Cache_GenFile[1][Path] Line0001 = "/F/mypro/work/products/9000/EM9636/software/"
+Cache_GenFile[1][Path] Line0002 = "demo/builds/EM9636_Demo/EM9636AD高速/EM9636A"
+Cache_GenFile[1][Path] Line0003 = "D高速.aliases"
+Cache_GenFile[2][Path] Line0001 = "/F/mypro/work/products/9000/EM9636/software/"
+Cache_GenFile[2][Path] Line0002 = "demo/builds/EM9636_Demo/EM9636AD高速/EM9636A"
+Cache_GenFile[2][Path] Line0003 = "D高速.ini"
+Cache_GenFile[3][Path] Line0001 = "/F/mypro/work/products/9000/EM9636/software/"
+Cache_GenFile[3][Path] Line0002 = "demo/builds/EM9636_Demo/EM9636AD高速/data/em"
+Cache_GenFile[3][Path] Line0003 = "9636.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{996ED70F-475A-4589-ABEE-08656041DF85}"
+Cache_GenGUID[1][String] = "{2E6EDC68-90CE-433E-BBF8-F4BDFF2DB639}"
+Cache_GenGUID[2][String] = "{0AB9614A-5F73-408D-AB12-F4603C4C1C9D}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] Line0001 = "/F/mypro/work/products/9000/EM9636/software/d"
+Cache_OutputDir[Path] Line0002 = "emo/builds/EM9636_Demo/EM9636AD高速"
+
+[AB_Cache_{2CEEAB51-5114-4C4C-9079-7764FF49DDFF}]
+Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{2CEEAB51-5114-4C4C-9079-7764FF49DDFF}.txt"
+
+[AB_Cache_{69CB1D04-43A2-4445-97ED-935EEF481E85}]
+Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{69CB1D04-43A2-4445-97ED-935EEF481E85}.txt"
+
+[AB_Cache_{6C4D06E6-41B8-4158-B8B9-E8E53080069A}]
+Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{6C4D06E6-41B8-4158-B8B9-E8E53080069A}.txt"
+
+[AB_Cache_{DE1115F4-7B8C-4ACC-AC51-31E1F5E51347}]
+Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{DE1115F4-7B8C-4ACC-AC51-31E1F5E51347}.txt"
+
+[AB_Cache_{B7FCFAB8-ED2B-41F6-A5DD-009D4A4FBFE2}]
+Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{B7FCFAB8-ED2B-41F6-A5DD-009D4A4FBFE2}.txt"
+
+[AB_Cache_{A80CDAE1-CD17-4D18-B137-A711A59F6231}]
+Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{A80CDAE1-CD17-4D18-B137-A711A59F6231}.txt"
+
+[AB_Cache_{45659BF4-2653-412D-AB5E-4F3661645C39}]
+Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{45659BF4-2653-412D-AB5E-4F3661645C39}.txt"
+
+[AB_Cache_{3CDF1D44-67B1-4194-8CE8-FDEC30EF89EA}]
+Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{3CDF1D44-67B1-4194-8CE8-FDEC30EF89EA}.txt"
+
